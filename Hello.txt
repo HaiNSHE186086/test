@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello
 Hi
+=======
+Hello my friend!!!
+>>>>>>> 3d3d5be056e9cc67810835a48c09575d735b8084
